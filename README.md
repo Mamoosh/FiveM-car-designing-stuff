@@ -1,5 +1,3 @@
-Certainly! Below is an example README for a GitHub repository related to FiveM car designing materials.
-
 ```markdown
 # FiveM Car Designing Essentials
 
