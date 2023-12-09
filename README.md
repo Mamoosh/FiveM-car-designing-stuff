@@ -20,7 +20,7 @@ To integrate these files into your FiveM server, follow these steps:
 
 1. Clone the repository or download the ZIP of the project:
    ```
-   git clone https://github.com/yourusername/fivem-car-design.git
+
    ```
 2. Place the vehicle meta files in the `resources` directory of your FiveM server.
 3. Include the map files in your server's stream folder.
